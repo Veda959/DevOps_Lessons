@@ -16,6 +16,7 @@ DevOps isn’t a product or a tool — it’s a culture, practice, and mindset t
 1. Continuous Integration (CI)
 2. Continuous Delivery (CD)
 3. Automation of testing, deployment, monitoring
+   
 ✅ Pros:
 1. Faster delivery.
 2. Automation reduces errors.
