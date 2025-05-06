@@ -69,7 +69,13 @@ There are 4 important aspects of the Kernel:
 2. Memory Management
 3. Process Management
 4. Handles System Calls
-
 ![image](https://github.com/user-attachments/assets/6c717e9c-6194-4011-aa10-16847262fd5b)
 
+# LINUX Operating System:
+This is a Light Weight Operating System which is:
+1. Free
+2. Open Source
+3. Secure
+4. Distributions - There are many distributions out here in the market where some are produces by vendors like (RedHat, Debian, Ubuntu, CentOs)
+5. Fast
 
