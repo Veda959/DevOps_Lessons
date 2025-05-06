@@ -50,6 +50,14 @@ Every service in the AWS have its own API, basically API's are "Request and Resp
 2. Authentication - Whether the request API has access to the AWS console or not.?
 3. Authorization - Wheteher the requested API is authorized to do that particular task or service to do anything (Like creating EC2 instances, the person should have access to the EC2 service).
 
+# Interview Question - What tool do you use to for the automation of infrastructure in your organization ? 
+
+Automation is basically done by script, First of all, what is this script actually and what are different scripting services available ?
+We can choose any of the following scripting services based on our organization requirement
+1. AWS CLI (AWS Command Line Interface)
+2. AWS API (AWS Application Program Interface) - If we know a programming language we can write a better API to create the infrastructure (Like REST API's). For Python, we use BOTO3 module and write API to talk to AWS EC2 API to create "1 to n" Instances through Automation.
+3. AWS CFT (AWS Cloud Formation Template)
+4. Terraform (Open Source Infrastructure as Code tool by "HashiCorp") - If we are using "Hybrid Cloud Model", Terraform is the best choice to automate infrastructure among the different cloud platforms.
+5. AWS CDK (AWS Cloud Development Kit)
 
 
-1. AWS API
