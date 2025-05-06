@@ -61,3 +61,15 @@ We can choose any of the following scripting services based on our organization 
 5. AWS CDK (AWS Cloud Development Kit)
 
 
+# Interview Question - What is a kernel in Operating System ?
+Operating System - OS is nothing but cascading the requests between Hardware and Software, but actually who takes this responsibility ? A component, that component is called - KERNEL
+Kernel - Kernel is the heart of the Operating System. Kernel is like a chip, that establishes the communication between Hardware and Software.
+There are 4 important aspects of the Kernel:
+1. Device Management
+2. Memory Management
+3. Process Management
+4. Handles System Calls
+
+![image](https://github.com/user-attachments/assets/6c717e9c-6194-4011-aa10-16847262fd5b)
+
+
