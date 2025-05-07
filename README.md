@@ -8,6 +8,7 @@ Not only delivery of the applications, here we have more in a shell to know abou
 3. Quality
 4. Monitoring
 5. Testing
+
 So, Now the actual definition is " DevOps is a process of improving the delivering of applications, by ensuring there is proper automation, ensured quality in place, ensured set up of monitoring and ensured a set up of continuous testing.
 # Industry Definition of DevOps
 DevOps isn’t a product or a tool — it’s a culture, practice, and mindset that emerged from the real-world need for better collaboration between software development and IT operations.
@@ -79,3 +80,16 @@ This is a Light Weight Operating System which is:
 4. Distributions - There are many distributions out here in the market where some are produces by vendors like (RedHat, Debian, Ubuntu, CentOs)
 5. Fast
 
+# Linux Commands:
+1. mkdir
+2. pwd
+4. cd
+5. touch
+6. rm
+7. rm -f
+8. mv
+9. cp
+10. cat
+11. grep
+12. free -g/ free -m
+13. 
