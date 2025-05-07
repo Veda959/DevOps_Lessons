@@ -83,13 +83,34 @@ This is a Light Weight Operating System which is:
 # Linux Commands:
 1. mkdir
 2. pwd
-4. cd
-5. touch
-6. rm
-7. rm -f
-8. mv
-9. cp
-10. cat
-11. grep
-12. free -g/ free -m
-13. 
+3. cd
+4. cd ..
+5. cd /
+6. touch
+7. rm
+8. rm -f
+9. mv
+10. cp
+11. cat
+12. grep
+13. free -g/ free -m - To check the memory available
+14. nproc - To check how many CPU's are available
+15. df -h - To check how much disc size is available
+16. Top
+17. ps -ef
+18. ps -aux
+
+# Interview Question - What is the command that you use to manage Memory, CPU or look in to it ?
+"TOP" Command - Using this command, we can view the Memory, CPU, Tasks that are available, running, sleeping, from how much time the server is up end and every other details.
+Individually also we can check the Memory and CPU using "free/ free -g/ free -m" and "nproc" respectively. To check all at once "TOP" is the best command.
+
+# NETWORKING:
+The Most important components in this networking are:
+1. IP Address
+2. VPC
+3. CIDR Range
+4. Subnet (Private & Public)
+5. Ports
+
+![common-network-ports-cheat-sheet-1232x1536](https://github.com/user-attachments/assets/02ec3c89-9900-4f26-a135-343b18a6102d)
+
