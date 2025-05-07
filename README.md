@@ -114,3 +114,14 @@ The Most important components in this networking are:
 
 ![common-network-ports-cheat-sheet-1232x1536](https://github.com/user-attachments/assets/02ec3c89-9900-4f26-a135-343b18a6102d)
 
+6. OSI Model
+
+# Version Control Management (or) Source Code Management (Git or GitHub)
+
+The Most popular Older Version control systems are (CVS[Concurrent version Systems] and SVN[Subversion]) - These are "Centralized Versioning Systems"
+Now-a-days "Git/GitHub" became more popular. - Git is "Distributed Versioning System"
+Main Components to understand are:
+1. Sharing of Data
+2. Versioning
+
+# Interview Question - What is the Difference between Centralized and Distributed Versioning Systems ?
