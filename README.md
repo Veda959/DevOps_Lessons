@@ -1,3 +1,4 @@
+
 # DevOps_Lessons (My Personal Repo on DevOps) 
 
 # What is DevOps ?
@@ -6,7 +7,7 @@ Not only delivery of the applications, here we have more in a shell to know abou
 1. Improving Delivery
 2. Automation
 3. Quality
-4. Monitoring
+5. Monitoring
 5. Testing
 
 So, Now the actual definition is " DevOps is a process of improving the delivering of applications, by ensuring there is proper automation, ensured quality in place, ensured set up of monitoring and ensured a set up of continuous testing.
@@ -125,3 +126,6 @@ Main Components to understand are:
 2. Versioning
 
 # Interview Question - What is the Difference between Centralized and Distributed Versioning Systems ?
+
+
+
